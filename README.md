@@ -104,4 +104,4 @@ This project is licensed under the **MIT License**.
 
 **Aman Mani Tripathi**  
 🔗 [LinkedIn](https://www.linkedin.com/in/aman-mani-tripathi-744320299/)  
-📁 GitHub: [amantripathi-dev](https://github.com/amantripathi-dev)
+📁 GitHub: [amantripathi-dev](https://github.com/Amanpandit87)
